@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ahmed</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">I AM  backend developer</h3>
 
 - 🌱 I’m currently learning **.net core framework**
 
